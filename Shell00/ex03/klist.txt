@@ -1,0 +1,6 @@
+Credentials cache: API:16962468-FBEC-4979-AEF3-985A6EF6D00E
+        Principal: aneves-f@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  5 16:02:00 2021  Aug  6 02:02:00 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Aug  5 16:02:02 2021  Aug  6 02:02:00 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
